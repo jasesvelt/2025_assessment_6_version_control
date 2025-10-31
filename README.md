@@ -1,5 +1,9 @@
 # 2024 - Assignment 5 - University-of-Adelaide-Bx-Masters / BIOTECH-7005-BIOINF-3000
 
+## Contact details
+
+david.lawrence@sa.gov.au
+
 ## Branches
 
 This repository has 2 branches:

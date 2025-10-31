@@ -9,3 +9,8 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+- Fixed high severity issue (XXXXXXX). See [#141](https://github.com/davmlaw/2025_assessment_6_version_control/issues/141)
+
