@@ -4,6 +4,10 @@
 
 david.lawrence@sa.gov.au
 
+## Contact details
+
+david.lawrence@sa.gov.au
+
 ## Branches
 
 This repository has 2 branches:
